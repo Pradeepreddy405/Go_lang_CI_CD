@@ -3,5 +3,6 @@ import ("fmt")
 
 func main() {
   fmt.Println("Hello World!")
-  fmt.Println("This is Go_lang Automatino")
+  fmt.Println(" GO_LANGUAGE")
+  fmt.Println("This is Go_lang Automation")
 }
